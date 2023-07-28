@@ -83,7 +83,7 @@ Ensure that the dataset file "Anime.csv" is present in the same directory as the
 
 The Anime Recommendations Database is sourced from myanimelist.net API. We acknowledge and appreciate their contribution to this dataset.
 
-For more details about this project and the Anime Recommendations Database, refer to the [GitHub repository]([https://github.com/your_username/AnimeSensei-EDA](https://github.com/vardhanreddy369/AnimeSensei-EDA)).
+For more details about this project and the Anime Recommendations Database, refer to the [GitHub repository]([https://github.com/vardhanreddy369/AnimeSensei-EDA]).
 
 ---
 This README.md provides an overview of the project, its purpose, instructions for running the code, and a link to the GitHub repository. Customize it further with additional details or any other information you want to share about your project. Replace "your_username" in the GitHub repository link with your actual GitHub username.
