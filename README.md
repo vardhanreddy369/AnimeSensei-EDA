@@ -1,3 +1,4 @@
+![image](https://github.com/vardhanreddy369/AnimeSensei-EDA/assets/91843112/50557dc0-f35a-480d-a354-ae3ce225009c)
 
 # **Anime Recommendations Database - Exploratory Data Analysis (EDA)**
 
